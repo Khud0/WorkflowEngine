@@ -1,0 +1,11 @@
+C:\Files\C# Projects\WorkflowEngine\WorkflowEngine\bin\Debug\netcoreapp3.1\WorkflowEngine.exe
+C:\Files\C# Projects\WorkflowEngine\WorkflowEngine\bin\Debug\netcoreapp3.1\WorkflowEngine.deps.json
+C:\Files\C# Projects\WorkflowEngine\WorkflowEngine\bin\Debug\netcoreapp3.1\WorkflowEngine.runtimeconfig.json
+C:\Files\C# Projects\WorkflowEngine\WorkflowEngine\bin\Debug\netcoreapp3.1\WorkflowEngine.runtimeconfig.dev.json
+C:\Files\C# Projects\WorkflowEngine\WorkflowEngine\bin\Debug\netcoreapp3.1\WorkflowEngine.dll
+C:\Files\C# Projects\WorkflowEngine\WorkflowEngine\bin\Debug\netcoreapp3.1\WorkflowEngine.pdb
+C:\Files\C# Projects\WorkflowEngine\WorkflowEngine\obj\Debug\netcoreapp3.1\WorkflowEngine.csprojAssemblyReference.cache
+C:\Files\C# Projects\WorkflowEngine\WorkflowEngine\obj\Debug\netcoreapp3.1\WorkflowEngine.AssemblyInfoInputs.cache
+C:\Files\C# Projects\WorkflowEngine\WorkflowEngine\obj\Debug\netcoreapp3.1\WorkflowEngine.AssemblyInfo.cs
+C:\Files\C# Projects\WorkflowEngine\WorkflowEngine\obj\Debug\netcoreapp3.1\WorkflowEngine.dll
+C:\Files\C# Projects\WorkflowEngine\WorkflowEngine\obj\Debug\netcoreapp3.1\WorkflowEngine.pdb
