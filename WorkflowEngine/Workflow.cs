@@ -28,7 +28,7 @@ namespace WorkflowEngine
             if (activityCount == 0) 
             {
                 logger.Log(LogType.Error, $"Workflow {this.ToString()} doesn't have any activities!");
-                logger.Log(LogType.Info, $"Workflow {this.ToString()} has been aborted.");
+                logger.Log(LogType.Warning, $"Workflow {this.ToString()} has been aborted.");
                 return;
             }
 
